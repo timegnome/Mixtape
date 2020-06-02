@@ -1,0 +1,8 @@
+{
+“name”: “M-bot”,
+“version”: “1.0.0”,
+“description”: “Mixtape Bot”,
+“main”: “bot.js”,
+“author”: “TimeGnome”,
+“dependencies”: {}
+}
